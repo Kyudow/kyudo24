@@ -15,7 +15,8 @@
 -   -Making server in Fivem
 -   -Making Private Server in Ran Online
 - 📫 How to reach me ...
-
+    -j.jay.deloza@gmail.com
+     -Kyudo#6969
 <!---
 kyudo24/kyudo24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
