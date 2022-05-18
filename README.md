@@ -1,13 +1,12 @@
 <h1>👋 Hi, I’m @kyudo24</h1>
 
--👀 I’m interested in ...
-
+<h2>-👀 I’m interested in ...</h2>
 
             -Fivem Server Development
             -Making application that people gonna use someday
             -Website development
    
--🌱 I’m currently learning ...
+<h2>-🌱 I’m currently learning ...</h2>
 
       -Lua
       -PHP
@@ -17,12 +16,12 @@
       -VB.NET
       -CSS
     
--💞️ I’m looking to collaborate on ...
+<h2>-💞️ I’m looking to collaborate on ...</h2>
 
         -Making server in Fivem
         -Making Private Server in Ran Online
--📫 How to reach me ...
-
+<h2>-📫 How to reach me ...</h2>
+            
         -j.jay.deloza@gmail.com
          -Kyudo#6969
 <!---
