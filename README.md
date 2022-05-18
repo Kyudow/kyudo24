@@ -1,9 +1,9 @@
 -👋 Hi, I’m @kyudo24
 
 -👀 I’m interested in ...
-      -Fivem Server Development
-      -Making application that people gonna use someday
-      -Website development
+            -Fivem Server Development
+            -Making application that people gonna use someday
+            -Website development
    
 -🌱 I’m currently learning ...
       -Lua
