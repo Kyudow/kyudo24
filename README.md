@@ -1,18 +1,18 @@
   -👋 Hi, I’m @kyudo24
   
-  -👀 I’m interested in ...
--   -Fivem Server Development
--   -Making application that people gonna use someday
--   -Website development
--   
-   -🌱 I’m currently learning ...
-    -   -Lua
-    -   -PHP
-    -   -Java
-    -   -SQL
-    -   -ASP.NET
+      -👀 I’m interested in ...
+         -Fivem Server Development
+         -Making application that people gonna use someday
+         -Website development
+   
+        -🌱 I’m currently learning ...
+           -   -Lua
+          -   -PHP
+          -   -Java
+         -   -SQL
+           -   -ASP.NET
     -   -VB.NET
-    -   -CSS
+         -   -CSS
     
   -💞️ I’m looking to collaborate on ...
     -   -Making server in Fivem
