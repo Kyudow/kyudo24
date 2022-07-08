@@ -5,6 +5,7 @@
             -Fivem Server Development
             -Making application that people gonna use someday
             -Website development
+            -Editing Videos and photos
    
 <h2>-🌱 I’m currently learning ...</h2>
 
@@ -23,7 +24,7 @@
 <h2>-📫 How to reach me ...</h2>
             
         -j.jay.deloza@gmail.com
-         -Kyudo#6969
+         -Kyudo#5433
 <!---
 kyudo24/kyudo24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
