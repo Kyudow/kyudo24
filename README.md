@@ -23,7 +23,7 @@
         -Making Private Server in Ran Online
 <h2>-📫 How to reach me ...</h2>
             
-        -j.jay.deloza@gmail.com
+        
          -Kyudo#5433
 <!---
 kyudo24/kyudo24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
