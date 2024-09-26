@@ -5,7 +5,7 @@
             -Fivem Server Development
             -Making application that people gonna use someday
             -Website development
-            -Editing Videos and photos
+         
    
 <h2>-🌱 I’m currently learning ...</h2>
 
@@ -20,7 +20,7 @@
 <h2>-💞️ I’m looking to collaborate on ...</h2>
 
         -Making server in Fivem
-        -Making Private Server in Ran Online
+        
 <h2>-📫 How to reach me ...</h2>
             
         
